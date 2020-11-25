@@ -130,7 +130,7 @@ article:hover img{
 
 
 /*Responsive*/
-@media screen and (min-width: 0px) and (max-width: 400px){
+@media screen and (min-width: 0px) and (max-width: 399px){
     header h1{
         font-size: 25px;
         text-align: center;
